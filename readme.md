@@ -31,4 +31,8 @@ chmod -R 775 app/storage
 chown -R :nobody app/storage
 然后配web服务器就能访问了。
 
+git/vendor文件未上传
+
+请自行克隆后用composer更新
+
 
