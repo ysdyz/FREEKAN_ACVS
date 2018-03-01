@@ -7,8 +7,8 @@ return array (
   'webdesc' => '我觉得这是一个很好的网站',
   'webdir' => 'admin',
   'webicp' => 'icp86786786',
-  'webmail' => 'huijingdandan@gmail.com',
-  'copyright' => '淡心心心',
+  'webmail' => 'xxxxx@admin.com',
+  'copyright' =>'freekan',
   'webtemplate' => 'wapian',
   'cy' => '<div id="SOHUCS"></div>
                         <script type="text/javascript">
