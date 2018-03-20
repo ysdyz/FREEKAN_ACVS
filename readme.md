@@ -2,6 +2,8 @@ FREEKAN_ACVS3.6不再进行开源
 
 因为某些人做得太过分了
 
+FREEKAN_ACVS 3.6演示地址:http://fk.freekan.top
+
 免责声明:
 本程序当前版本开源共享,
 仅作为学习交流,
